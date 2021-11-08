@@ -61,7 +61,7 @@ ul {
    
    }
    BoDy {
-     background-image: url(/B2.jpg);
+     background-image: url("/B2.jpg");
        ColoR:whitesmoke;
        background-size: coVER;
        background-repeat: no-repeat;
