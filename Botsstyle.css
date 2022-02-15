@@ -1,0 +1,30 @@
+
+ body,
+ html {
+     height: 100%;
+     width: 100%;
+     overflow: hidden;
+     background-color: aqua;
+ }
+ .main {
+    padding: 10px;
+            flex-grow: 1;
+            display: flex;
+            flex-direction: row;
+            border: solid 1px green
+        
+}
+
+
+#bot1 {
+    flex-grow: 2;
+    border: solid 1px orange
+}
+#bot1 {
+    flex-grow: 2;
+    border: solid 1px red;
+}
+#bot3 {
+    flex-grow: 1;
+    border: solid 1px black
+}
